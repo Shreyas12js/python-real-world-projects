@@ -29,3 +29,5 @@ This project is part of my **Python Real-World Projects** collection where I pra
 
 ## 🧪 Example Output
 
+![Sample Output](sample_output.png)
+
