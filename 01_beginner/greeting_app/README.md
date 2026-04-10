@@ -16,6 +16,8 @@ Shreyas
 Hello Shreyas
 Welcome to Python
 ```
+## Solution
 
+https://github.com/Shreyas12js/python-real-world-projects/blob/main/01_beginner/greeting_app/main.py
 
 
