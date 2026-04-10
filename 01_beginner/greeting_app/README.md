@@ -17,7 +17,5 @@ Hello Shreyas
 Welcome to Python
 ```
 
-## Solution
 
-Created by: J S Shreyas
 
