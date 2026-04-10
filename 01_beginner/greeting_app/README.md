@@ -13,8 +13,8 @@ Shreyas
 ## Output
 
 ```
-Hello Shreyas
-Welcome to Python
+Hello Shreyas.
+Welcome to Python.
 ```
 ## Solution
 
