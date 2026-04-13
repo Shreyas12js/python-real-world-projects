@@ -20,7 +20,7 @@ Your group name could be Red Lions
 
 ## Solution
 
-https:/github.com/<your-username>/python-real-world-projects/blob/main/02_group_name_generator/main.py
+https://github.com/Shreyas12js/python-real-world-projects/blob/main/02_group_name_generator/main.py
 
 ## Output Screenshot
 
