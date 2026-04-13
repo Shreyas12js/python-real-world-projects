@@ -18,7 +18,7 @@ Welcome to Python.
 ```
 ## Solution
 
-https://github.com/Shreyas12js/python-real-world-projects/blob/main/projects/01_greeting_app/main.py
+https://github.com/Shreyas12js/python-real-world-projects/blob/main/01_greeting_app/main.py
 
 ## Output Screenshot
 
