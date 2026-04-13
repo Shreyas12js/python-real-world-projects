@@ -9,14 +9,14 @@ Hint: overtime = hours - 40
 ## Input
 
 ```id="ot1"
-Enter Hours: 45
-Enter Rate: 5
+Enter Hours: 45.6
+Enter Rate: 120.256
 ```
 
 ## Output
 
 ```id="ot2"
-Pay: 237.50
+Pay: 5820.39
 ```
 
 ## Solution
