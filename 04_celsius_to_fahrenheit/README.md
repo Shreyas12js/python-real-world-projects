@@ -19,7 +19,7 @@ Enter Temperature in Celsius: 10
 
 ## Solution
 
-https://github.com/<your-username>/python-real-world-projects/blob/main/04_celsius_to_fahrenheit/main.py
+https://github.com/Shreyas12js/python-real-world-projects/blob/main/01_greeting_app/main.py
 
 ## Output Screenshot
 
