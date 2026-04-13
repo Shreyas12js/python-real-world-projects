@@ -14,7 +14,7 @@ Enter Temperature in Celsius: 10
 ## Output
 
 ```id="c2"
-10 Celsius = 50.0 Fahrenheit
+10.0 Celsius = 50.0 Fahrenheit
 ```
 
 ## Solution
