@@ -8,13 +8,13 @@ Write a program to prompt the user for hours and rate per hour to compute gross 
 
 ```id="g1"
 Enter Hours: 35
-Enter Rate: 2.75
+Enter Rate: 2.7577
 ```
 
 ## Output
 
 ```id="g2"
-Pay: 96.25
+Pay: 96.52
 ```
 
 ## Solution
