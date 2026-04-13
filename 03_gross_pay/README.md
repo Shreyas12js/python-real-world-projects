@@ -19,7 +19,7 @@ Pay: 96.52
 
 ## Solution
 
-https://github.com/<your-username>/python-real-world-projects/blob/main/03_gross_pay/main.py
+https://github.com/Shreyas12js/python-real-world-projects/blob/main/03_gross_pay/main.py
 
 ## Output Screenshot
 
