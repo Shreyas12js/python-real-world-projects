@@ -4,15 +4,13 @@
 
 Write a program to test the compatibility between two people.
 
-Take both people's names and check for the number of times the letters in the word TRUE occur. Then check for the number of times the letters in the word LOVE occur. Then combine these numbers to make a 2 digit number.
+Take both people's names with combining two names and check for the number of times the letters in the word TRUE occur. Then check for the number of times the letters in the word LOVE occur. Then combine these numbers to make a 2 digit number.
 
-For Love Scores less than 10 or greater than 85, the message should be:
-"Your score is x, you go together like coke and mentos."
+Based on the score:
 
-For Love Scores between 40 and 70, the message should be:
-"Your score is y, you are alright together."
-
-Otherwise, the message will just be their score.
+If the score is less than 25 or greater than 70 → Not a True Love
+If the score is between 25 and 70 → True Love
+Otherwise → Average Love
 
 ## Input
 
