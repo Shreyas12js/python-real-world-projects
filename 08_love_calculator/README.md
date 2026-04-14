@@ -22,7 +22,7 @@ Enter your partner name: Jennifer
 ## Output
 
 ```id="lc2"
-Your score is 33.
+True Love, your score is 33
 ```
 
 ## Solution
