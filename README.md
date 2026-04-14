@@ -1,2 +1,11 @@
 # python-real-world-projects
 A collection of real-world Python scripts solving everyday problems.
+
+01_greeting_app
+02_band_name_generator
+03_gross_pay
+04_celsius_to_fahrenheit
+05_trip_cost_calculator
+06_gross_pay_with_overtime
+07_leap_year_checker
+08_love_calculator
