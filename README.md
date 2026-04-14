@@ -5,7 +5,7 @@ A collection of real-world Python scripts solving everyday problems.
 ## Projects
 
 1. [01_greeting_app](https://github.com/Shreyas12js/python-real-world-projects/tree/main/01_greeting_app)
-2. [02_band_name_generator](https://github.com/Shreyas12js/python-real-world-projects/tree/main/02_band_name_generator)
+2. [02_group_name_generator](https://github.com/Shreyas12js/python-real-world-projects/tree/main/02_group_name_generator)
 3. [03_gross_pay](https://github.com/Shreyas12js/python-real-world-projects/tree/main/03_gross_pay)
 4. [04_celsius_to_fahrenheit](https://github.com/Shreyas12js/python-real-world-projects/tree/main/04_celsius_to_fahrenheit)
 5. [05_trip_cost_calculator](https://github.com/Shreyas12js/python-real-world-projects/tree/main/05_trip_cost_calculator)
